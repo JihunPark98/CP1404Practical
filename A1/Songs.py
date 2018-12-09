@@ -3,7 +3,7 @@ Student Name: Jihun Park
 Student ID:13561315
 Date: 09/12/2018
 This is the program with song list that allows people to add a user track song.The program reads and writes a list of songs in a file.
-Github: https://github.com/JihunPark98/Songs_A1/blob/master/Songs_A1.py
+Github: https://github.com/JihunPark98/CP1404Practical/blob/feedback/A1/Songs.py
 """
 
 def main():
