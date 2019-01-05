@@ -1,3 +1,10 @@
+"""
+Name: Jihun Park
+Date: 05/01/2019
+Brief Project Description: This is a Graphical User Interface (GUI) program to add and learn songs using kivy.
+GitHub URL: https://github.com/JihunPark98/CP1404Practical/tree/feedback/A2
+"""
+
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.button import Button
